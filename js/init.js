@@ -25,7 +25,7 @@ var audiofondo;
 
 function preload() {
     game.load.image('fondo', 'assets/sprites/bg.png');
-    game.load.image('splash', 'assets/sprites/splash.png');
+    game.load.image('splash', 'assets/sprites/Splash.jpg');
     game.load.image('titulo', 'assets/sprites/titulo.png');
     game.load.image('caja', 'assets/sprites/cajas.png');
     game.load.image('caja1', 'assets/sprites/caja1.png');
